@@ -38,7 +38,7 @@ The results, based on Silhouette Score, Davies-Bouldin Index, and ARI, highlight
 ## Execution Guide
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Pankaj1662005/ass-3-rana-
+    git clone https://github.com/ashutosh8950/ass4_rana
     ```
 2. Open with Google Colab:
     - Navigate to [Google Colab](https://colab.research.google.com/)

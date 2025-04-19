@@ -1,5 +1,3 @@
-Sure! Here's a rewritten version of your project summary that keeps the same structure and meaning but uses different wording and phrasing, making it look unique while preserving the essence of your original work:
-
 ---
 
 # Performance Comparison of Clustering Techniques
@@ -51,5 +49,3 @@ This project is made available under the MIT License.
 
 
 ---
-
-Let me know if you'd like this in PDF or formatted for a website or presentation!
